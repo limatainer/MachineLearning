@@ -1,0 +1,9 @@
+fit to lm model to apply linear regression
+
+then applied boxcox o obeserve the variables after model to compute an optimal power transformation based on a specified objective
+
+drop_na: Drop rows containing missing values
+
+Yeo-johnson to create a monotonic transformation of data With both negative and positive values, the transformation is a mixture of these so is used for positive and negative values Its so I can work with my negative values on nps y-variable
+
+rstandard() produces standardised residuals via normalisation to unit variance using the overall error variance of the residuals/model
